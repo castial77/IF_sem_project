@@ -1,0 +1,27 @@
+
+               html {
+			font-family: Arial, Helvetica, sans-serif;
+			line-height: 150%;
+		}
+		
+		header, main, footer {
+			margin: auto;
+			width: 60%;
+			height: auto;
+		}
+		
+		table, th, td {
+			border: 0px solid black;
+			border-collapse: collapse;
+
+		}
+		
+		th, td {
+			padding: 10px;
+			padding: 10px 5px 10px 5px;
+		}
+site-footer {
+    background: #e8e8e8;
+    margin-bottom: 0;
+    padding-bottom: 55px;
+
